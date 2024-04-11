@@ -1,7 +1,7 @@
 # Microsoft-Azure-Language-Studio
 Armazenar arquivos do laboratório  "Análise de Sentimentos com Language Studio no Azure AI".
  Insights e possibilidades sobre o conteúdo após a IA analisar as sentenças:
- - A IA parece ter sido treinada para classificar como "sentimento negativo" quando determinadas palavras aparecem (imagem Passo-02)caso contrário não consegue perceber pelo contexto da sentença em relação ao texto maior que também há forte "sentimento negativo" devido a gravidade do relatado (imagem Passo-03).
+ - A IA parece ter sido treinada para classificar como "sentimento negativo" quando determinadas palavras aparecem (vide sentenças 1 e 2 das imagens abaixo) caso contrário não consegue perceber pelo contexto da sentença em relação ao texto maior que também há forte "sentimento negativo" devido a gravidade do relatado (vide sentenças 3, 4 e 5 das imagens abaixo).
 
 
 ![Passo-01](https://github.com/LeoBerS/Microsoft-Azure-Language-Studio/assets/154366315/4245a8ef-bedd-479c-ae4c-4b1455de0e50)
